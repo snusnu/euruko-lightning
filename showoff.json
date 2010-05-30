@@ -1,0 +1,7 @@
+{
+  "name": "Euruko Lightning Talk",
+  "description": "Short intro to datamapper and dm-rails",
+  "sections": [
+    {"section":"datamapper"}
+  ]
+}
